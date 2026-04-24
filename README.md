@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Swathy
 
-<!--
-**Swathy-Chandran/Swathy-Chandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineer  
+🐍 Python & Django Developer  
+📊 Interested in AI & Data Science  
+🚀 Building real-world applications  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Django
+- SQL
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- AI Cash Flow Management System
+- Face Recognition Attendance System
+- Smart Traffic System
