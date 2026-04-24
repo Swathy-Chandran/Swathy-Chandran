@@ -12,6 +12,6 @@
 - HTML, CSS
 
 ## 📌 Projects
-- AI Cash Flow Management System
+- Smart Purchase Reorder System
 - Face Recognition Attendance System
 - Smart Traffic System
